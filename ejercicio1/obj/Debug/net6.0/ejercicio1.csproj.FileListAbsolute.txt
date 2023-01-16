@@ -1,0 +1,15 @@
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ejercicio1
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ejercicio1.deps.json
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ejercicio1.runtimeconfig.json
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ejercicio1.dll
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ref/ejercicio1.dll
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/bin/Debug/net6.0/ejercicio1.pdb
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.AssemblyReference.cache
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfoInputs.cache
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfo.cs
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.CoreCompileInputs.cache
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.dll
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ref/ejercicio1.dll
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.pdb
+/home/car/Escritorio/open/c#/tarea01/ejercicio1/obj/Debug/net6.0/ejercicio1.genruntimeconfig.cache

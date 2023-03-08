@@ -1,0 +1,15 @@
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\bin\Debug\net6.0\ejer-5.exe
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\bin\Debug\net6.0\ejer-5.deps.json
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\bin\Debug\net6.0\ejer-5.runtimeconfig.json
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\bin\Debug\net6.0\ejer-5.dll
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\bin\Debug\net6.0\ejer-5.pdb
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.csproj.AssemblyReference.cache
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.AssemblyInfoInputs.cache
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.AssemblyInfo.cs
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.csproj.CoreCompileInputs.cache
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.dll
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\refint\ejer-5.dll
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.pdb
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ejer-5.genruntimeconfig.cache
+C:\Users\cpeve\Documents\CLASES\codigo\NET\OB-cSharp\ejer-4\ejer-5\obj\Debug\net6.0\ref\ejer-5.dll
